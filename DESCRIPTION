@@ -1,9 +1,14 @@
 Package: demogendr
-Title: What the Package Does (One Line, Title Case)
+Title: Tools for Exploring Democracy and Gender in Political Leadership
 Version: 0.0.0.9000
 Authors@R:
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+    person("Bryce", "Corbett", , "bccorbet@calpoly.edu", role = c("aut", "cre"))
+Description: A tidyverse-style toolkit for exploring relationships
+    between democratic governance and gender representation in political
+    leadership. The package bundles a combined country-year dataset of
+    democracy indicators, executive leadership (presidents and monarchs),
+    and women's parliamentary representation, and provides helper
+    functions for loading, summarising, and visualising those data.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)

@@ -5,9 +5,13 @@ Authors@R: c(
     person("Bryce", "Corbett", , "bccorbet@calpoly.edu", role = c("aut", "cre")),
     person("Meghana", "Kolar", , "meghanakolar@gmail.com", role = "aut"),
     person("Julia", "Aptekar", , "japtekar2024@gmail.com", role = "aut"),
-    person("Sofia", "Jachno", , "sjach20@gmail.com", role = "aut"))
-Description: 
-ADD DESCRIPTION HERE!!!!
+    person("Sofia", "Jachno", , "sjach20@gmail.com", role = "aut")) 
+Description: A toolkit for exploring how democracy and gender shape
+    leadership in governments around the world. It includes a dataset that
+    tracks countries year by year, examining their democratic status, the
+    leaders who served as presidents or monarchs, and the proportion of
+    women holding seats in parliament. The package also provides simple
+    functions for loading, summarizing, and visualizing the data.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
